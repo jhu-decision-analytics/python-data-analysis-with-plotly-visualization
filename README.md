@@ -8,6 +8,7 @@ We'll first work with Python in Google Colaboratory--an *integrated development 
 
 ## Python Notebooks
 You can view the notebooks worked on in class here: 
+
 **Intro to Python and Colaboratory with College Characteristic Data**
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/14PJV4aPg01xX7-XnIUtrC6_GqgeriZj1)
 
